@@ -1,0 +1,16 @@
+* {
+    font-family: arial;
+}
+
+.container>div{
+    display: inline-block;
+}
+
+.container {
+    text-align: center;
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5em;
+}
